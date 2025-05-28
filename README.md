@@ -17,32 +17,39 @@ Here are some ideas to get you started:
 
 
 
-# [Your Name] - College Portfolio
+# Joseph King - College Portfolio
 
 ## 🎓 Education
 
-- **University Name**: [Your University]
-- **Degree**: [Your Degree] (e.g., Computer Science, Engineering)
-- **Year**: [Your Year of Graduation]
+- **University Name**: Virginia Commonwealth University
+- **Degree**: Electrical Engineering
+- **Year**: 2026
 
 ## 📚 Completed Coursework
 
-### 1. **Intro to Programming** 
-   - Topics covered: Basics of programming, algorithms, data structures, Python.
-   - Project: [Name of Project], a small Python application.
+### 1. **Circutis 1** 
+   - AC/DC Analysis
 
-### 2. **Data Structures & Algorithms**
+### 2. **Circutis 2** 
+   - Transferfunctions,Op Amps, Filters 
+   - Project: [Name of Project], 
+
+### 3. **Circuits 3**
    - Topics covered: Trees, Graphs, Sorting, Searching.
-   - Project: [Name of Project], a sorting algorithm visualizer.
+   - Project: [Name of Project], 
 
-### 3. **Web Development**
-   - Topics covered: HTML, CSS, JavaScript, React.
-   - Project: [Name of Project], a personal website built with React.
+### 4. **Advanced C programming**
+   - Topics covered: Data structures, stacks , Tress, 
+   - Project: [Name of Project],
+
+### 5. **Microcomputers**
+   -Topics 
+   -
 
 ## 💼 Relevant Projects
 
-- **[Project 1 Name]**: A description of the project and technologies used.
-- **[Project 2 Name]**: A description of the project and technologies used.
+- RC & Autonomous Car: H-bridge chip| Rasbery pi 3 | Lidar distant sensor via uart protoco | Xbox controller via bluetooth 
+- **Line Tracking Robot**: H-bridge chip, STM32 l476rg | photo detector sensor 
 
 ---
 
