@@ -33,11 +33,11 @@ Here are some ideas to get you started:
    - Diode Aanlysis, MOSFET Analysis, CMOS Analysis (Circuts 3)
    - Project 1: Simple circuit design & construction. 
    - Project 2: Created a cicuit using filters,
-   - Project 3: Creted a circuit using a MOSFET active in the saturation region.
+   - Project 3: Created a circuit design to operate a MOSFET in the saturation region.
 
 ### 4. **Advanced C programming**
    - Topics covered: Data structures, stacks , Tress, 
-   - Project: A simple program that helpls us understand Data structures, stacks, and memoery allocation. The project is called "Gbag", we essentially put contents in a bag (funtions) and when we take the contents out of the bag (call the function), it's expeced that the contents should do what they were programmed to do.
+   - Project: A simple program that helpls us understand data structures, stacks, and memoery allocation. The project is called "Gbag", we essentially put contents in a bag (funtions) and when we take the contents out of the bag (call the function), it's expeced that the contents should do what they were programmed to do.
 
 ### 5. **Microcomputers**
    - Assembly language, CPU architecture, registers and memory.
