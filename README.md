@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## 💼 Relevant Projects
 
 - RC & Autonomous Car: H-bridge chip| Rasbery pi 3 | Lidar distant sensor via uart protocol | Xbox controller via bluetooth 
-- **Line Tracking Robot**: H-bridge chip, STM32 l476rg | photo detector sensor 
+- Line Tracking Robot: H-bridge chip, STM32 l476rg | photo detector sensor 
 
 ---
 
