@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    - Transfer functions, Op Amps, Filters (Circuits 2)
    - Diode Aanlysis, MOSFET Analysis, CMOS Analysis (Circuts 3)
    - Project 1: Simple circuit design & construction. 
-   - Project 2: Created a cicuit using filters,
+   - Project 2: Created a circuit using filters,
    - Project 3: Created a circuit design to operate a MOSFET in the saturation region.
 
 ### 4. **Advanced C programming**
