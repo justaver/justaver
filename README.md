@@ -37,10 +37,11 @@ Here are some ideas to get you started:
 
 ### 4. **Advanced C programming**
    - Topics covered: Data structures, stacks , Tress, 
-   - Project: A simple program that helpls us understand Data structures, stacks, and memoery allocation. The project is called "Gbag", we essentially put contents in a bag (funtions) and when we take the contents out of the bag, it's expeced that the contents should do what they were programmed to do.
+   - Project: A simple program that helpls us understand Data structures, stacks, and memoery allocation. The project is called "Gbag", we essentially put contents in a bag (funtions) and when we take the contents out of the bag (call the function), it's expeced that the contents should do what they were programmed to do.
 
 ### 5. **Microcomputers**
    - Assembly language, CPU architecture, registers and memory.
+   - Project: Created a robot that follows a black line.
    
 
 ## 💼 Relevant Projects
