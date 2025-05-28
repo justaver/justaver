@@ -27,28 +27,25 @@ Here are some ideas to get you started:
 
 ## 📚 Completed Coursework
 
-### 1. **Circutis 1** 
-   - AC/DC Analysis
-
-### 2. **Circutis 2** 
-   - Transferfunctions,Op Amps, Filters 
-   - Project: [Name of Project], 
-
-### 3. **Circuits 3**
-   - Topics covered: Trees, Graphs, Sorting, Searching.
-   - Project: [Name of Project], 
+### 1. **Circutis 1/circuts 2/ circuits 3** 
+   - AC/DC Analysis (Cicuits 1)
+   - Transfer functions, Op Amps, Filters (Circuits 2)
+   - Diode Aanlysis, MOSFET Analysis, CMOS Analysis (Circuts 3)
+   - Project 1: Simple circuit design & construction. 
+   - Project 2: Created a cicuit using filters,
+   - Project 3: Creted a circuit using a MOSFET active in the saturation region.
 
 ### 4. **Advanced C programming**
    - Topics covered: Data structures, stacks , Tress, 
-   - Project: [Name of Project],
+   - Project: A simple program that helpls us understand Data structures, stacks, and memoery allocation. The project is called "Gbag", we essentially put contents in a bag (funtions) and when we take the contents out of the bag, it's expeced that the contents should do what they were programmed to do.
 
 ### 5. **Microcomputers**
-   -Topics 
-   -
+   - Assembly language, CPU architecture, registers and memory.
+   
 
 ## 💼 Relevant Projects
 
-- RC & Autonomous Car: H-bridge chip| Rasbery pi 3 | Lidar distant sensor via uart protoco | Xbox controller via bluetooth 
+- RC & Autonomous Car: H-bridge chip| Rasbery pi 3 | Lidar distant sensor via uart protocol | Xbox controller via bluetooth 
 - **Line Tracking Robot**: H-bridge chip, STM32 l476rg | photo detector sensor 
 
 ---
