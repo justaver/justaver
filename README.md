@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 📚 Completed Coursework
 
 ### 1. **Circutis 1/circuts 2/ circuits 3** 
-   - AC/DC Analysis (Cicuits 1)
+   - AC/DC Analysis (Circuits 1)
    - Transfer functions, Op Amps, Filters (Circuits 2)
    - Diode Aanlysis, MOSFET Analysis, CMOS Analysis (Circuts 3)
    - Project 1: Simple circuit design & construction. 
